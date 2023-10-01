@@ -25,3 +25,4 @@ go.work
 # General
 
 .idea
+starboard_markov/bot.db

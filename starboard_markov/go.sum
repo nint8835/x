@@ -1,0 +1,5 @@
+github.com/mattn/go-sqlite3 v1.14.17 h1:mCRHCLDUBXgpKAqIKsaAaAsrAlbkeomtRFKXh2L6YIM=
+github.com/mattn/go-sqlite3 v1.14.17/go.mod h1:2eHXhiwb8IkHr+BDWZGa96P6+rkvnG63S2DGjv9HUNg=
+github.com/mb-14/gomarkov v0.0.0-20210216094942-a5b484cc0243 h1:F0IAcxxFNzC8/HOxI5Q2hpsWAoGdy+lGMjoVyrcMeSw=
+github.com/mb-14/gomarkov v0.0.0-20210216094942-a5b484cc0243/go.mod h1:5F3Y03oxWIyMq3Wa4AxU544RYnXNZwHBfqpDpdLibBY=
+github.com/montanaflynn/stats v0.6.3/go.mod h1:wL8QJuTMNUDYhXwkmfOly8iTdp5TEcJFWZD2D7SIkUc=
