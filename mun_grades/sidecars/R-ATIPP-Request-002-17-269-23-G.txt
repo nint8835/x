@@ -1,0 +1,701 @@
+ro)
+S
+~
+N
+©
+N
+
+TERM SUBJECT CRSE TITLE PRIMARY_PROF GRADE GRD_CNT TTL_ENRL &
+
+202203 Anthropology 6440 S/C Master's Research Paper PASS
+
+202203 Applied Literary Arts 6500 Internship Ganz, Shoshannah PASS s. 40(1)
+
+202203 Applied Literary Arts 6501 Major Research Project Beardsworth, Adam A
+
+202203 = Arctic and Subarctic Studies 6000 Learning Labrador A 5 11
+
+202203 = Arctic and Subarctic Studies 6000 Learning Labrador B 6 11
+
+202203 Biochemistry 6400 Ctrl Intermediary Metabolism Cheema, Sukhinder Kaur A
+
+202203 Biochemistry 6460 Structural Biochemistry Park, Jaeok A
+
+202203 _—iBiology 7946 Fld samp app & appli stat phil Purchase, Craig A s. 40(1)
+
+202203 Boreal Ecosystems & Agri. Sci. 6058 SpTpcs Intro to Life Cycle Ast Shetranjiwalla, Shegufta A
+
+202203 Boreal Ecosystems & Agri. Sci. 6058 SpTpcs Intro to Life Cycle Ast Shetranjiwalla, Shegufta B
+
+202203 Business Administration 8103 Statcl Application Mngmt Sulsky, Lorne A 11 25
+
+202203 Business Administration 8103 Statcl Application Mngmt Sulsky, Lorne B 14 25
+
+202203 Business Administration 8108 Economics for Business Jain, Manu A 6 28
+
+202203 Business Administration 8108 Economics for Business Jain, Manu B 22 28
+
+202203 Business Administration 8109 Accounting for Management Coady, Peggy Ann A 17 57
+
+202203 Business Administration 8109 Accounting for Management Coady, Peggy Ann B 31 57
+
+202203 Business Administration 8109 Accounting for Management Coady, Peggy Ann C 6 57
+
+202203 Business Administration 8109 Accounting for Management Coady, Peggy Ann D 3 57
+
+202203 Business Administration 8204 Human Resource Mngmnt Sulsky, Lorne A 9 21
+
+202203 Business Administration 8204 Human Resource Mngmnt Sulsky, Lorne B 10 21
+
+202203 Business Administration 8204 Human Resource Mngmnt Sulsky, Lorne C 1 21
+
+202203 Business Administration 8204 Human Resource Mngmnt Sulsky, Lorne D 1 21
+
+202203 Business Administration 8209 Ldrshp & Intrprsnl Skills Mngr Tucker, David A 37 39
+
+202203 Business Administration 8209 Ldrshp & Intrprsnl Skills Mngr Tucker, David B 2 39
+
+202203 Business Administration 8518 Reflections Shannahan, Rachelle PASS 17 18
+
+202203 Business Administration 9020 International Human Res Mngmnt Saha, Sudhir A 12 25
+
+202203 Business Administration 9020 International Human Res Mngmnt Saha, Sudhir B 10 25
+
+202203 Business Administration 9020 International Human Res Mngmnt Saha, Sudhir C 2 25
+
+202203 Business Administration 9032 Digital & Soc Media Marketing Wetsch, Lyle A 13 21
+
+202203 Business Administration 9032 Digital & Soc Media Marketing Wetsch, Lyle B 8 21
+
+202203 Business Administration 9040 Business Sustainability Cooper, Thomas A 25 28
+
+202203 Business Administration 9040 Business Sustainability Cooper, Thomas B 3 28
+
+202203 Business Administration 9041 Spec Topics General Mgmt | A
+
+202203 Business Administration 9301 Research Project | A
+
+202203 Business Administration 9302 Research Project II A
+
+202203 Business Administration 9303 Research Project Ill A s. 40(1)
+
+202203 Business Administration 9308 New Venture Creation A
+
+202203 Business Administration 9308 New Venture Creation B
+
+202203 Business Administration 9317 Current Topics Managemnt Hossain, Ashrafee T. A
+
+202203 Business Administration 9322 Strategic Mngmnt Tech&lnnovat Eghbali-Zarch, Majid A 12 13
+
+202203 Business Administration 9322 Strategic Mngmnt Tech&lnnovat Eghbali-Zarch, Majid B 1 13
+
+202203 Business Administration 9933 Adv Tpcs General Management A
+
+202203 Business Administration 9934 Sp Tps in General Mgmt Il A
+
+202203 Business Administration 9935 Sp Tps in General Mgmt III Hossain, Ashrafee T. A s. 40(1)
+
+202203 Chemistry 6001 Masters Seminar PASS
+
+202203 Chemistry 6003 Doctoral Rsrch Seminar PASS
+
+202203 Chemistry 6153 Tech Sampling Trace Anal&Chemo Bottaro, Christina A
+
+202203 Computer Science 6999 Master's Project Meruvia-Pastor, Oscar A 13 15
+
+202203 Computer Science 6999 Master's Project Meruvia-Pastor, Oscar B 1 15
+
+202203 Data Science 6650 Reinforcement Learning Shestopaloff, Alex A 14 17
+
+202203 Data Science 6650 Reinforcement Learning Shestopaloff, Alex B 3 17
+
+202203 Data Science 695B Capstone Project PASS 14 14
+
+202203 __ Earth Sciences 6905 Adv Field Std Res Sed/Strat Mcilroy, Duncan A
+
+202203 Earth Sciences 7000 Grad Internship Earth Sciences PASS s. 40(1)
+
+202203 Economics 6999 Master's Essay B
+
+202203 Education 6100 Rsrch Dsgn & Mthd/Educ Coombs, Andrew James A 15 15
+
+202203 Education 6100 Rsrch Dsgn & Mthd/Educ Kelly, Robert A 12 16
+
+202203 Education 6100 Rsrch Dsgn & Mthd/Educ Kelly, Robert B 4 16
+
+202203 Education 6100 Rsrch Dsgn & Mthd/Educ White, Gerald Joseph A 15 16
+
+202203 Education 6100 Rsrch Dsgn & Mthd/Educ White, Gerald Joseph B 1 16
+
+202203 Education 6100 Rsrch Dsgn & Mthd/Educ Krenca, Klaudia A 13 20
+
+202203 Education 6100 Rsrch Dsgn & Mthd/Educ Krenca, Klaudia B 7 20
+
+202203 Education 6105 Social&Cultural Differences&Ed Pozeg, Robert Anthony A 18 20
+
+202203 ~Education 6105 Social&Cultural Differences&Ed Pozeg, Robert Anthony B 1 20
+
+202203 Education 6105 Social&Cultural Differences&Ed Pozeg, Robert Anthony D 1 20
+
+202203 Education 6106 Popular Cult & Literacy Ed Doyle, Clar P A 20 20
+
+202203 Education 6106 Popular Cult & Literacy Ed Galway, Kiera Mary A 13 16
+
+202203 Education 6106 Popular Cult & Literacy Ed Galway, Kiera Mary B 2 16
+
+202203 Education 6107 Arts Ed: Creativity in Clssrm McLeod, Heather A 18 18
+
+202203 Education 6108 Lit&Lang Ed:Sociocult Perspect Gilbert Mulcahy, BarbaraLynn A 18 18
+
+202203 Education 6192 Proj Reading Dvlp & Instruct St. Croix, Norma Mary PASS s. 40(1)
+
+1
+ro)
+S
+=
+N
+©
+O3
+
+202203 Education 6192 Proj Reading Dvlp & Instruct Sinclair, Jeanne PASS s. 40(1)
+
+202203 Education 6203 Leadership: Thry & Prctce Delaney, Jerome A 24 24
+
+202203 Education 6203 Leadership: Thry & Prctce Anderson, Kirk A 17 19
+
+202203 ~=Education 6203 Leadership: Thry & Prctce Anderson, Kirk B 2 19
+
+202203 Education 6203 Leadership: Thry & Prctce Murray, Susan Elizabeth A 15 17
+
+202203 Education 6203 Leadership: Thry & Prctce Murray, Susan Elizabeth B 2 17
+
+202203 Education 6204 Educ Admin: Theory&Practice Elliott, Gershom Ross A 11 15
+
+202203 Education 6204 Educ Admin: Theory&Practice Elliott, Gershom Ross B 4 15
+
+202203 Education 6204 Educ Admin: Theory&Practice Elliott, Gershom Ross A 12 19
+
+202203 Education 6204 Educ Admin: Theory&Practice Elliott, Gershom Ross B 7 19
+
+202203 Education 6205 Education/Policy:Theory&Pract Neville, Rose Marie Elizabeth A s. 40(1)
+
+202203 Education 6205 Education/Policy:Theory&Pract Murray, Susan Elizabeth A 20 21
+
+202203 Education 6205 Education/Policy:Theory&Pract Murray, Susan Elizabeth B 1 21
+
+202203 Education 6290 Rsch & Dvlp Sem Educ Leadshp Kelly, Robert A 30 38
+
+202203 Education 6290 Rsch & Dvlp Sem Educ Leadshp Kelly, Robert B 6 38
+
+202203 Education 6290 Rsch & Dvlp Sem Educ Leadshp Kelly, Robert F 2 38
+
+202203 Education 6293 Paper Folio Ed Lead Studies Delaney, Jerome PASS
+
+202203 Education 6293 Paper Folio Ed Lead Studies Rodway, Joelle PASS 8. 40(1)
+
+202203 Education 6300 Teaching and Learning Coombs, Andrew James A 16 18
+
+202203 Education 6300 Teaching and Learning Coombs, Andrew James B 2 18
+
+202203 Education 6300 Teaching and Learning Pozeg, Robert Anthony A 21 21
+
+202203 Education 6335 Legal Fndtns Ed Admin Delaney, Jerome A 19 19
+
+202203 Education 6390 Rsrch&Devl Sem Teach&Learn Std Kelly, Robert A 43 49
+
+202203 Education 6390 Rsrch&Devl Sem Teach&Learn Std Kelly, Robert B 6 49
+
+202203 Education 6392 Project Curr Tch/Lrn Studies Anderson, Kirk FAIL s. 40(1)
+
+202203 Education 6392 Project Curr Tch/Lrn Studies Anderson, Kirk PASS ;
+
+202203 Education 6394 Biograph Explor Teach&Learning Gardner, Morgan A 13 14
+
+202203 Education 6394 Biograph Explor Teach&Learning Gardner, Morgan B 1 14
+
+202203 Education 6420 Eth Iss&Per Ed Prac&Plcy Okshevsky, Walter A 5 19
+
+202203 Education 6420 Eth Iss&Per Ed Prac&Plcy Okshevsky, Walter B 8 19
+
+202203 Education 6420 Eth Iss&Per Ed Prac&Plcy Okshevsky, Walter C 2 19
+
+202203 Education 6420 Eth Iss&Per Ed Prac&Plcy Okshevsky, Walter D 3 19
+
+202203 Education 6420 Eth Iss&Per Ed Prac&Plcy Okshevsky, Walter F 1 19
+
+202203 Education 6426 Cmptr Applctns Ed Admin Barry, Sheldon Joseph A 20 20
+
+202203 Education 6426 Cmptr Appictns Ed Admin Barry, Sheldon Joseph A 18 18
+
+202203 Education 6440 Fmly Sch Ritns:Lead&Pol Implic Neville, Rose Marie Elizabeth A 16 20
+
+202203 ~=Education 6440 Fmly Sch Ritns:Lead&Pol Implic Neville, Rose Marie Elizabeth B 4 20
+
+202203 Education 6440 Fmly Sch Ritns:Lead&Pol Implic Neville, Rose Marie Elizabeth A 15 15
+
+202203 Education 6465 Sch Violence:Lead/Plcy Impl Kelly, Darron lan A 15 19
+
+202203 Education 6465 Sch Violence:Lead/Plcy Impl Kelly, Darron lan B 4 19
+
+202203 Education 6465 Sch Violence:Lead/Plcy Impl Kelly, Darron lan A 17 19
+
+202203 Education 6465 Sch Violence:Lead/Plcy Impl Kelly, Darron lan B 2 19
+
+202203 Education 6466 Qualitative Rsrch Mthds Dintoe, Seitebaleng Susan A 15 16
+
+202203 Education 6466 Qualitative Rsrch Mthds Dintoe, Seitebaleng Susan B 1 16
+
+202203 Education 6471 Text-level Read,Dvip & Instr Sinclair, Jeanne A 17 18
+
+202203 Education 6471 Text-level Read,Dvip & Instr Sinclair, Jeanne F 1 18
+
+202203 Education 6471 Text-level Read,Dvip & Instr Burchell, Diana A 14 15
+
+202203 Education 6590 Rrsch&Dev Sem Info Tech Educ Kelly, Robert A 13 16
+
+202203 Education 6590 Rrsch&Dev Sem Info Tech Educ Kelly, Robert B 3 16
+
+202203 Education 6600 Learning & Motivation Seifert, Timothy A 10 17
+
+202203 Education 6600 Learning & Motivation Seifert, Timothy B 7 17
+
+202203 Education 6600 Learning & Motivation Hallett, Darcy A 9 16
+
+202203 Education 6600 Learning & Motivation Hallett, Darcy B 7 16
+
+202203 Education 6602 Curriculum Studies Fillier, Darryl A s. 40(1)
+
+202203 Education 6602 Curriculum Studies Fillier, Darryl B ;
+
+202203 Education 6602 Curriculum Studies Mulcahy, Dennis A 20 20
+
+202203 Education 6602 Curriculum Studies Doyle, Clar P A 17 17
+
+202203 Education 6610 Rsrch Cmptrs Curriculum Mann, Bruce L A s. 40(1)
+
+202203 Education 6610 Rsrch Cmptrs Curriculum Mann, Bruce L B ;
+
+202203 Education 6612 Integr Instr Design/Ed Tech A 12 12
+
+202203 Education 6614 Tech & Plan Ed Envrnmnts A s. 40(1)
+
+202203 Education 6617 Digital Citz Global Community A 17 17
+
+202203 Education 6620 Issues & Trends in Educ Tech Mann, Bruce L A 6 18
+
+202203 Education 6620 Issues & Trends in Educ Tech Mann, Bruce L B 11 18
+
+202203 Education 6634 Tch&Lrn Solve Math Prblm Kondratieva, Margarita A s. 40(1)
+
+202203 Education 6639 Tech & Teaching&Learning Math Kondratieva, Margarita A 15 15
+
+202203 Education 6641 Writing Prim,Elem,Sec Schools Lunde, Anders A 10 12
+
+202203 Education 6641 Writing Prim,Elem,Sec Schools Lunde, Anders B 2 12
+
+202203 Education 6664 Sem School Improvement Rodway, Joelle A 15 19
+
+202203 ~=Education 6664 Sem School Improvement Rodway, Joelle B 3 19
+
+202203 Education 6669 Grad Sem Second Lang Tch&Learn Redmond, Leslie Megan A s. 40(1)
+
+202203 Education 6670 Tch&Lrn Social Studies Fillier, Darryl A 15 18
+
+2
+ro)
+S
+=
+N
+©
+N
+
+202203 Education 6670 Tch&Lrn Social Studies Fillier, Darryl B 3 18
+
+202203 Education 6673 Second Lang Tch, Learn&Curr Li, Xuemei A 7 11
+
+202203 Education 6673 Second Lang Tch, Learn&Curr Li, Xuemei B 4 11
+
+202203 ~=Education 6674 Research in Second Language Li, Xuemei A
+
+202203 Education 6674 Research in Second Language Li, Xuemei B s. 40(1)
+
+202203 Education 6675 Curr Issues In Rural Ed Mulcahy, Dennis A 20 20
+
+202203 Education 6675 Curr Issues In Rural Ed Saglain, Nadeem A 20 20
+
+202203 Education 6710 Iss Dvlp&Imp Sp Ed Plcy&Pract Furey, Edith A 14 17
+
+202203 Education 6710 Iss Dvlp&lmp Sp Ed Plcy&Pract Furey, Edith B 3 17
+
+202203 Education 6801 Fndtns Post-Second Programmes Kirby, Dale A 13 13
+
+202203 ~=Education 6802 Adult Learning and Development Dintoe, Seitebaleng Susan A 15 15
+
+202203 Education 6803 Research in Post-Secondary Ed Kirby, Dale A 15 16
+
+202203 Education 6803 Research in Post-Secondary Ed Kirby, Dale B 1 16
+
+202203 Education 6805 Adv Human Rsrc Communications Elliott, Gershom Ross A 13 20
+
+202203 Education 6805 Adv Human Rsrc Communications Elliott, Gershom Ross B 7 20
+
+202203 Education 6822 Fndtns Inst Dsgn Post-Sec Ed Mann, Bruce L A s. 40(1)
+
+202203 Education 6822 Fndtns Inst Dsgn Post-Sec Ed Mann, Bruce L B
+
+202203 Education 6831 Orgnztn Admin Student Services Arnold, Christine A 12 13
+
+202203 Education 6831 Orgnztn Admin Student Services Arnold, Christine B 1 13
+
+202203 Education 6890 Rsch & Dvlp Sem Post-Sec Std Kelly, Robert A 12 14
+
+202203 Education 6890 Rsch & Dvlp Sem Post-Sec Std Kelly, Robert B 2 14
+
+202203 Education 6911 Multiage Education: An Intro Saqlain, Nadeem A 18 18
+
+202203 Education 6922 Blended & Online Learning A s. 40(1)
+
+202203 ~=Education 6922 Blended & Online Learning B
+
+202203 Education 6923 Perspectives in Indigenous Ed Andersen, Ola Marie A 22 22
+
+202203 Education 6940 Admin Stdnt Srvcs Post-Sec Ed Arnold, Christine A 15 15
+
+202203 Education 6942 Design Distributed Learning A 18 18
+
+202203 Education 6944 Data Informed Education A 12 12
+
+202203 Employment Relations 6040 Rsch Sem Emp Rel IIl:Appl Rsch Ghahremanlou, Davoud A 29 30
+
+202203 Employment Relations 6040 Rsch Sem Emp Rel IIl:Appl Rsch Ghahremanlou, Davoud B 1 30
+
+202203 _ Engineering 9082 Ocean Observation Peng, Hongxuan A
+
+202203 _—_— Engineering 9082 Ocean Observation Peng, Hongxuan F s. 40(1)
+
+202203 _—_— Engineering 9084 Sp Tpcs Ocean Engineering Quinton, Bruce W A
+
+202203 _ Engineering 910B OGE Project Course Aborig, Amer Musbah A 25 28
+
+202203 _ Engineering 910B OGE Project Course Aborig, Amer Musbah B 3 28
+
+202203 _ Engineering 9110 Adv Petroleum Production Engi Aborig, Amer Musbah A 13 27
+
+202203 _ Engineering 9110 Adv Petroleum Production Engi Aborig, Amer Musbah B 14 27
+
+202203 _— Engineering 9111 Well Testing Aborig, Amer Musbah A 2 17
+
+202203 _ _— Engineering 9111 Well Testing Aborig, Amer Musbah B 15 17
+
+202203 _— Engineering 9115 Safety and Risk Engineering Ahmed, Salim A 17 34
+
+202203 _ Engineering 9115 Safety and Risk Engineering Ahmed, Salim B 12 34
+
+202203 _ Engineering 9115 Safety and Risk Engineering Ahmed, Salim C 4 34
+
+202203 _—_— Engineering 915B SRE Project Course Imtiaz, Syed A 18 29
+
+202203 _—_— Engineering 915B SRE Project Course Imtiaz, Syed B 10 29
+
+202203 _— Engineering 915B SRE Project Course Imtiaz, Syed F 1 29
+
+202203 _— Engineering 9340 Mat Degradation Process Fac Zhang, Yahui A 24 51
+
+202203 _—_ Engineering 9340 Mat Degradation Process Fac Zhang, Yahui B 27 51
+
+202203 _ Engineering 960B Environmental Engi Project Zhang, Baiyu Helen A 51 62
+
+202203 _ Engineering 960B Environmental Engi Project Zhang, Baiyu Helen B 11 62
+
+202203 _ Engineering 9621 Soil Remediation Engineering Saady, Noori A s. 40(1)
+
+202203 _— Engineering 9621 Soil Remediation Engineering Saady, Noori B :
+
+202203 _— Engineering 9624 Air Pollution Saady, Noori A 16 52
+
+202203 _—_— Engineering 9624 Air Pollution Saady, Noori B 36 52
+
+202203 Engineering 9626 Envrnmt Mngmnt System Khan, Amir Ali A 64 66
+
+202203 _ Engineering 9626 Envrnmt Mngmnt System Khan, Amir Ali B 2 66
+
+202203 _ Engineering 9723 Soil Properties & Behaviour Hawlader, Bipul C A
+
+202203 _ Engineering 9723 Soil Properties & Behaviour Hawlader, Bipul C B
+
+202203 _— Engineering 9740 Adv Geotechnical Engin Dhar, Ashutosh Sutra A s. 40(1)
+
+202203 _—_— Engineering 9799 Sustain Infrastruct Mgmt Gurza Fausto, Edmundo A
+
+202203 _—_— Engineering 9799 Sustain Infrastruct Mgmt Gurza Fausto, Edmundo B
+
+202203 _ Engineering 9804 Industrial Machine Vision Czarnuch, Stephen A 30 77
+
+202203 _ Engineering 9804 Industrial Machine Vision Czarnuch, Stephen B 43 77
+
+202203 _— Engineering 9804 Industrial Machine Vision Czarnuch, Stephen C 2 77
+
+202203 _— Engineering 9804 Industrial Machine Vision Czarnuch, Stephen D 2 77
+
+202203 _ Engineering 9807 Computer Security Anderson, Jonathan Robert A
+
+202203 _— Engineering 9807 Computer Security Anderson, Jonathan Robert B s. 40(1)
+
+202203 _— Engineering 9807 Computer Security Anderson, Jonathan Robert F
+
+202203 _— Engineering 981A Computer Engineering Project Li, Cheng PASS 18 18
+
+202203 _—_— Engineering 981B Computer Engineering Project Li, Cheng A 25 30
+
+202203 _—_— Engineering 981B Computer Engineering Project Li, Cheng B 5 30
+
+202203 _— Engineering 9826 Advanced Control Systems Jamil, Mohsin A 7 20
+
+202203 Engineering 9826 Advanced Control Systems Jamil, Mohsin B 13 20
+
+3
+ro)
+S
+~
+N
+©
+)
+
+202203 _ Engineering 9839 Software Verif & Validation Shahidi, Reza A 18 33
+
+202203 _ Engineering 9839 Software Verif & Validation Shahidi, Reza B 15 33
+
+202203 _ Engineering 9841 Thermal Power Plants Nyantekyi-Kwakye, Baafour A 8 15
+
+202203 _— Engineering 9841 Thermal Power Plants Nyantekyi-Kwakye, Baafour B 7 15
+
+202203 _— Engineering 9843 Solar Engineering Sharan, Anand M. A 4 32
+
+202203 Engineering 9843 Solar Engineering Sharan, Anand M. B 28 32
+
+202203 _—_— Engineering 9845 Energy Storage Duan, Xili A 91 93
+
+202203 _— Engineering 9845 Energy Storage Duan, Xili B 2 93
+
+202203 _ Engineering 9857 Instrum & Cntrl Energy Systems Jamil, Mohsin A 24 70
+
+202203 _ Engineering 9857 Instrum & Cntrl Energy Systems Jamil, Mohsin B 37 70
+
+202203 _ Engineering 9857 Instrum & Cntrl Energy Systems Jamil, Mohsin C 4 70
+
+202203 _— Engineering 9857 Instrum & Cntrl Energy Systems Jamil, Mohsin D 2 70
+
+202203 _— Engineering 9857 Instrum & Cntrl Energy Systems Jamil, Mohsin F 3 70
+
+202203 _ Engineering 9862 Power System Protection Jamil, Mohsin A 16 20
+
+202203 _— Engineering 9862 Power System Protection Jamil, Mohsin B 3 20
+
+202203 _—_— Engineering 9862 Power System Protection Jamil, Mohsin C 1 20
+
+202203 _—_— Engineering 9868 ASIC Design Zhang, Lihong A 6 12
+
+202203 _— Engineering 9868 ASIC Design Zhang, Lihong B 6 12
+
+202203 _— Engineering 9869 Adv Concurrent Programming Shahidi, Reza A 3 15
+
+202203 _— Engineering 9869 Adv Concurrent Programming Shahidi, Reza B 11 15
+
+202203 _— Engineering 9869 Adv Concurrent Programming Shahidi, Reza F 1 15
+
+202203 _ Engineering 9871 Information Theory & Coding Elbanna, Anmed Abdelaziz A 63 88
+
+202203 _ Engineering 9871 Information Theory & Coding Elbanna, Anmed Abdelaziz B 25 88
+
+202203 _ Engineering 9872 Digital Communications Karami, Ebrahim A 36 58
+
+202203 _— Engineering 9872 Digital Communications Karami, Ebrahim B 22 58
+
+202203 _— Engineering 9874 Software Design/Specification Karami, Ebrahim A 128 130
+
+202203 _—_— Engineering 9874 Software Design/Specification Karami, Ebrahim B 2 130
+
+202203 _ Engineering 990A MESE Project Course Jamil, Mohsin PASS 105 105
+
+202203 _ Engineering 9975 Spc Tpcs Mechan Eng Turbulence Nyantekyi-Kwakye, Baafour A
+
+202203 _ Engineering 9981 Aided Navigation Systems De Silva, Bentotage Mohan A
+
+202203 _ Engineering 9981 Aided Navigation Systems De Silva, Bentotage Mohan B s. 40(1)
+
+202203 Environmental Policy 6030 Internship Richards, Garrett PASS
+
+202203 ~—~French 6800 Frncphne Lit:Theory & Practice Basabose, Philippe A
+
+202203 Human Kinetics and Recreation 6110 Phys Ed Rec & Sport Management Fitzpatrick, Leigh John A 19 21
+
+202203 Human Kinetics and Recreation 6110 Phys Ed Rec & Sport Management Fitzpatrick, Leigh John B 2 21
+
+202203 Human Kinetics and Recreation 6111 Cdn Deliv Sys/Phys Ed,Rec,Sprt Wiseman, Roxanne E. A 24 24
+
+202203 Human Kinetics and Recreation 6615 Individual Reading&Research Sullivan, Anne-Marie A s. 40(1)
+
+202203 Maritime Stds/Tech Mgmt 6008 Soc/Phil Issues Fisheries Mgmt Andrews, Evan A 10 12
+
+202203 = Maritime Stds/Tech Mgmt 6008 Soc/Phil Issues Fisheries Mgmt Andrews, Evan B 2 12
+
+202203 Maritime Stds/Tech Mgmt 6014 Geospatial Anlys Mrn Spatial P Keats, Chris A
+
+202203 Maritime Studies 6002 Sci Commun Maritime Stds Mallam, Steven Cater A
+
+202203 Maritime Studies 6002 Sci Commun Maritime Stds Mallam, Steven Cater B s. 40(1)
+
+202203 Maritime Studies 6003 Human Factors Safety/Survival Smith, Jennifer Joan Elizabeth A
+
+202203 Maritime Studies 6003 Human Factors Safety/Survival Smith, Jennifer Joan Elizabeth B
+
+202203 Maritime Studies 6044 Marine Enviro Law&Poll Control Mathai, Rohan A 20 24
+
+202203 Maritime Studies 6044 Marine Enviro Law&Poll Control Mathai, Rohan B 4 24
+
+202203 Mathematics 6299 Master's Project PASS s. 40(1)
+
+202203 Mathematics 6345 Special Tpcs in Combinatorics Dyer, T Danny PASS ;
+
+202203 Mathematics - Statistics 6564 Experimental Designs Mulayath Variyath, Asokan A 5 12
+
+202203 Mathematics - Statistics 6564 Experimental Designs Mulayath Variyath, Asokan B 7 12
+
+202203 Mathematics - Statistics 698B Applied Stats Project PASS
+
+202203 Medicine 6108 Directed Readings Brunger, Fern A s. 40(1)
+
+202203 Medicine 6226 Postcolonial Theory Brunger, Fern A
+
+202203 Medicine 6226 Postcolonial Theory Brunger, Fern B
+
+202203 Medicine 6250 Basic Clincl Epidemiolgy Czarnuch, Stephen A 32 34
+
+202203 Medicine 6250 Basic Clincl Epidemiolgy Czarnuch, Stephen B 2 34
+
+202203 Medicine 6711 Public Health Capstone Project Grynszpan, Delphine PASS
+
+202203 Medicine 6736 Dietetics Internship IV Prowse, Rachel PASS
+
+202203 Music 6901 Special Topics in Applied Mus Schiller, Caroline A s. 40(1)
+
+202203 Music 6907 Special Topics Schiller, Caroline A
+
+202203 Music 7002 Research Paper A
+
+202203 Nursing 6012 Stats for Adv Nursing Practice Devey-Burry, Robin D A 8 12
+
+202203 Nursing 6012 Stats for Adv Nursing Practice Devey-Burry, Robin D B 4 12
+
+202203 Nursing 6013 Research Mthds in Nursing Isler, Chantille Irene A 14 16
+
+202203 ~=Nursing 6013 Research Mthds in Nursing Isler, Chantille Irene B 2 16
+
+202203 ~=Nursing 6221 Population-Based Nursing Jarvis, Kimberly Dawn A 13 16
+
+202203 Nursing 6221 Population-Based Nursing Jarvis, Kimberly Dawn B 3 16
+
+202203 Nursing 6260 Knowledge Translation Nursing Younas, Ahtisham A 13 13
+
+202203 ~=Nursing 6660 Practicum 1 Crossman, Renee Mary A
+
+202203 = Nursing 6660 Practicum 1 Crossman, Renee Mary B s. 40(1)
+
+202203 = Nursing 6661 Practicum 2 Younas, Ahtisham A
+
+202203 ~=Nursing 6705 Pharmacotherapy & Therapeutics Walsh, Derrick A 14 16
+
+4
+ro)
+S
+~
+N
+©
+
+202203 Nursing 6705 Pharmacotherapy & Therapeutics Walsh, Derrick B 2 16 NS
+
+202203 Nursing 6706 Nurs Pract Roles&Prac Issues Emberley-Burke, Wanda Jocelyn A 14 16
+
+202203 Nursing 6706 Nurs Pract Roles&Prac Issues Emberley-Burke, Wanda Jocelyn B 2 16
+
+202203 Occupational Health & Safety 6001 Supervised Capstone Rsch Paper A s. 40(1)
+
+202203 Occupational Health & Safety 6003 Reg Apprch & Comp Systems Shan, Desai A ;
+
+202203 Ocean Technology 6004 Field Crs in Ocean Mapping Mullan, Sean A 18 19
+
+202203 Ocean Technology 6004 Field Crs in Ocean Mapping Mullan, Sean B 1 19
+
+202203 Ocean Technology 6010 Marine Geol & Geophysics Mullan, Sean A 18 24
+
+202203 Ocean Technology 6010 Marine Geol & Geophysics Mullan, Sean B 6 24
+
+202203 Ocean Technology 6100 Appl Ocean Tech Project in OM Elliott, William Paul A
+
+202203 Philosophy 6060 Special Topics A s. 40(1)
+
+202203 _— Political Science 602B Rsrch Design & Prof Dvlp PASS
+
+202203 _— Political Science 6030 Co-operative Internship PASS
+
+202203 _— Political Science 6290 Sp Tpcs International Politics Ashworth, Lucian A 17 23
+
+202203 ‘Political Science 6290 Sp Tpcs International Politics Ashworth, Lucian B 6 23
+
+202203 Psychology 6404 Project Appl Psychol Science Button, Cathryn PASS
+
+202203 Psychology 7022 Practicum Child Assess& Diagnos Case, Emily Kathryn PASS 8. 40(1)
+
+202203 Social Work 6014 Leadership Soc Plcy/Prgms Chechak, Derek Joseph A 19 21
+
+202203 Social Work 6014 Leadership Soc Plcy/Prgms Chechak, Derek Joseph B 2 21
+
+202203 Social Work 6314 Prspctvs Diverse Communities McConnell, Sheri A 13 16
+
+202203 ~=Social Work 6314 Prspctvs Diverse Communities McConnell, Sheri B 2 16
+
+202203 Social Work 6315 Perspectives with Groups McConnell, Sheri A 18 18
+
+202203 Social Work 6417 Pathway Scholarship PASS 15 17
+
+202203 ~=Social Work 6917 Field Practicum Russell, Hazel Elsie Mary PASS
+
+202203 Social Work 7010 Phil&Hist Base Sw Pract Giwa, Sulaimon A
+
+202203 Social Work 7020 Critical Thinkng Sw Prac de Jong, Kathleen A s. 40(1)
+
+202203 = Social Work 7310 Tutorial Field Practice PASS
+
+202203 Social Work 7411 Phil of Sci & Research Design LeFrancois, Brenda A
+
+202203 Technology 6023 Strategic Technology Mgmt Pendergast, Shawn Christopher A 14 21
+
+202203 Technology 6023 Strategic Technology Mgmt Pendergast, Shawn Christopher B 6 21
+
+202203 Technology 6023 Strategic Technology Mgmt Pendergast, Shawn Christopher C 1 21
+
+202203 Technology 6031 Overview of Tech Operations Johnson, Ronald A 11 12
+
+202203 ~=Technology 6038 Manufacturing & Engi Tch Mgmt Barajas Vazques, Marco Antonio A 12 19
+
+202203 Technology 6038 Manufacturing & Engi Tch Mgmt Barajas Vazques, Marco Antonio B 5 19
+
+202203 Technology 6038 Manufacturing & Engi Tch Mgmt Barajas Vazques, Marco Antonio F 1 19
+
+202203 Technology 6054 Technology Assessment Barajas Vazques, Marco Antonio A 13 19
+
+202203 Technology 6054 Technology Assessment Barajas Vazques, Marco Antonio B 5 19
+
+202203 Technology 6054 Technology Assessment Barajas Vazques, Marco Antonio F 1 19
+
+202203 ‘Visual Arts 6500 Seminar Intensive | Weyand, Laurence A
+
+202203 ‘Visual Arts 6510 Studio/Research Intensive Hengeveld, Robert A
+
+202203 _—*Visual Arts 6800 Seminar Intensive Il Weyand, Laurence A s. 40(1)
+
+202203 _—s*Visual Arts 6810 Studio /Production Intensive Hengeveld, Robert A
+
+202203 ‘Visual Arts 6999 Final Project & Oral Exam A
+
+5

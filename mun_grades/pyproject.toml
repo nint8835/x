@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "mun-grades"
+version = "0.1.0"
+description = ""
+authors = ["Riley Flynn <riley@rileyflynn.me>"]
+license = "MIT"
+readme = "README.md"
+packages = [{include = "mun_grades"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+ocrmypdf = "^15.2.0"
+
+[tool.poetry.group.dev.dependencies]
+black = "^23.9.1"
+mypy = "^1.6.0"
+isort = "^5.12.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
