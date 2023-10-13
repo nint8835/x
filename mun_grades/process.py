@@ -35,6 +35,7 @@ for path in unprocessed_reports_path.iterdir():
 # - Doesn't handle courses with letters in course number (such as 499A)
 # - Doesn't handle courses with OCR artifacts in the string
 #   - This might be a fix on the OCR side, rather than the regex side :person_shrugging:
+# - Doesn't handle professors with multiple, non-hyphenated last names (do a Ctrl-Shift-F for "Connors Jackman" for an example)
 course_regex = re.compile(r"(\d{6}) ([\S ]+ [\dX]{4})(?:\S*) ([\S ]+) (\S+, [\S ]+) (PASS|FAIL|PWD|A|B|C|D|F)(?: (\d+) (\d+))?")
 
 for sidecar_path in sidecars_path.iterdir():
