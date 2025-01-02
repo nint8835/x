@@ -1,0 +1,9 @@
+{
+    "editor.formatOnSave": true,
+    "gopls": {
+        "formatting.local": "github.com/nint8835/x"
+    },
+    "[python]": {
+        "editor.defaultFormatter": "charliermarsh.ruff"
+    }
+}
